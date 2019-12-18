@@ -1,0 +1,23 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "This is my first introduction to NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinsonWang/simple-weather-app.git"
+  },
+  "author": "Tinson Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinsonWang/simple-weather-app/issues"
+  },
+  "homepage": "https://github.com/TinsonWang/simple-weather-app#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^15.0.2"
+  }
+}
